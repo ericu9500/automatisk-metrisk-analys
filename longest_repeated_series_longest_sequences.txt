@@ -1,0 +1,403 @@
+Top 100 lines with the longest 'u' sequences:
+Length 16 in file prometheus.txt, line 895: [ἀπόλεμος ὅδε γʼὁ πόλεμος, ἄπορα πόριμος· οὐδʼ], [uuuu uu u uuu uuu uuu -]
+
+Length 13 in file prometheus.txt, line 892: [ἐμοὶ δʼὁπόθι μὲν ὁμαλὸς ὁ γάμος ἄφοβος οὐ-], [u- uuu u uuu u uu uuu -]
+
+Length 12 in file seven.txt, line 828: [αὐτοφόνα, δίμορα τέλεα τάδε πάθη. τί φῶ;], [-uuu uuu uuu uu u- u -]
+
+Length 12 in file persians.txt, line 664: [τί τάδε τί τάδε δυνάτα δυνάτα], [u uu u uu uuu uuu]
+
+Length 10 in file prometheus.txt, line 178: [ἐμὰς δὲ φρένας ἐρέθισε διάτορος φόβος·], [u- u uu uuuu uuu- u-]
+
+Length 10 in file prometheus.txt, line 161: [τεοῖσι, δίχα γε Διός; ὁ δʼἐπικότως ἀεὶ], [u-u uu u uu u uuu- u-]
+
+Length 10 in file persians.txt, line 270: [ἁλίδονα μέλεα πολυβαφῆ], [uuuu uuu uuu-]
+
+Length 10 in file persians.txt, line 253: [ἄνια ἄνια νεόκοτα καὶ], [uuu uuu uuuu -]
+
+Length 9 in file persians.txt, line 258: [ἦ μακροβίοτος ὅδε γέ τις αἰ-], [- uuuuu uu u u -]
+
+Length 8 in file persians.txt, line 665: [περὶ τᾷ σᾷ δίδυμα †διαγόεν† ἁμάρτια;], [uu - - uuu uuuu u-u-]
+
+Length 7 in file seven.txt, line 957: [ἰὼ Μοῖρα βαρυδότειρα μογερά, πότνιά τʼ Οἰδίπου σκιά,], [u- -u uuu-u uuu uuu -u- u-]
+
+Length 7 in file seven.txt, line 769: [διὰ χερί ποτε λαχεῖν], [uu uu uu u-]
+
+Length 7 in file seven.txt, line 762: [δίδυμα κάκʼ ἐτέλεσεν·], [uuu u uuu-]
+
+Length 7 in file seven.txt, line 759: [ἐγένετο μέλεος ἀθλίων], [uuuu uuu -u-]
+
+Length 7 in file seven.txt, line 575: [βαθεῖαν ἄλοκα διὰ φρενὸς καρπούμενος,], [u-u uuu uu u- --u-]
+
+Length 7 in file seven.txt, line 222: [ποτίφατον κλύουσα πάταγον ἀνάμιγα], [uuu- u-u uuu uuu-]
+
+Length 7 in file seven.txt, line 187: [σασα τὸν ἁρματόκτυπον ὄτοβον ὄτοβον,], [-u u -u-uu uuu uu-]
+
+Length 7 in file seven.txt, line 104: [ὼ χρυσοπήληξ δαῖμον ἔπιδʼ ἔπιδε πόλιν], [- -u-- -u uu uuu u-]
+
+Length 7 in file pythians.txt, line 801: [πάσαισι γὰρ πολίεσι λόγος ὁμιλεῖ], [--u - uuuu uu u--]
+
+Length 7 in file pythians.txt, line 793: [κάλλιστον αἱ μεγαλοπόλιες Ἀθᾶναι], [--u - uuuuuu u--]
+
+Length 7 in file prometheus.txt, line 426: [κελαινὸς Ἄιδος ὑποβρέμει μυχὸς γᾶς,], [u-u uuu uuu- u- -]
+
+Length 7 in file persians.txt, line 970: [τροχηλάτοισιν ὄπιθεν ἑπομένους.], [u-u-u uuu uuu-]
+
+Length 7 in file olympians.txt, line 109: [θεὸς ἐπίτροπος ἐὼν τεαῖσι μήδεται], [uu uuuu u- u-u -u-]
+
+Length 7 in file olympians.txt, line 98: [Πέλοπος, ἵνα ταχυτὰς ποδῶν ἐρίζεται], [uuu uu uu- u- u-u-]
+
+Length 7 in file olympians.txt, line 79: [ἐμὲ δ᾽ἐπὶ ταχυτάτων πόρευσον ἁρμάτων], [uu uu uuu- u-u -u-]
+
+Length 7 in file olympians.txt, line 68: [μετὰ τὸ ταχύποτμον αὖτις ἀνέρων ἔθνος.], [uu u uuuu -u -u- u-]
+
+Length 7 in file olympians.txt, line 49: [ὕδατος ὅτι σε πυρὶ ζέοισαν εἰς ἀκμὰν], [uuu uu u u- u-u - u-]
+
+Length 7 in file olympians.txt, line 38: [ὁπότʼ ἐκάλεσε πατὴρ τὸν εὐνομώτατον], [uu uuuu u- u -u-u-]
+
+Length 7 in file olympians.txt, line 19: [νόον ὑπὸ γλυκυτάταις ἔθηκε φροντίσιν,], [uu uu uuu- u-u -u-]
+
+Length 7 in file olympians.txt, line 8: [ὅθεν ὁ πολύφατος ὕμνος ἀμφιβάλλεται], [uu u uuuu -u -u-u-]
+
+Length 6 in file seven.txt, line 874: [κτέανα δʼ ἐπιγόνοις,], [uuu uuu-]
+
+Length 6 in file seven.txt, line 216: [διὰ θεῶν πόλιν νεμόμεθʼ ἀδάματον,], [uu u- u- uuu uuu-]
+
+Length 6 in file seven.txt, line 150: [ἑπτάπυλον ἕδος ἐπιρρύου.], [-uuu uu u-u-]
+
+Length 6 in file seven.txt, line 142: [ποῖ δʼ ἔτι τέλος ἐπάγει θεός;], [- uu uu uu- u-]
+
+Length 6 in file seven.txt, line 110: [καχλάζει πνοαῖς Ἄρεος ὀρόμενον.], [u-- u- uuu uuu-]
+
+Length 6 in file seven.txt, line 93: [πότερα δῆτʼ ἐγὼ <πάτρια> ποτιπέσω], [uuu - u- uuu uuu-]
+
+Length 6 in file seven.txt, line 85: [ἀμαχέτου δίκαν ὕδατος ὀροτύπου.], [uuu- u- uuu uuu-]
+
+Length 6 in file seven.txt, line 78: [u-u θρέομαι φοβερὰ μεγάλʼ ἄχη·], [u-u uu- uuu uu u-]
+
+Length 6 in file pythians.txt, line 722: [λεγόμενον ἐρέω·], [uuuu uu-]
+
+Length 6 in file pythians.txt, line 711: [βασιλέες ἱεροὶ], [uuuu uu-]
+
+Length 6 in file pythians.txt, line 691: [πολύθυτον ἔρανον], [uuuu uu-]
+
+Length 6 in file pythians.txt, line 680: [ἀπόλεμον ἀγαγὼν], [uuuu uu-]
+
+Length 6 in file pythians.txt, line 660: [μακάριος, ὃς ἔχεις], [uuuu u u-]
+
+Length 6 in file pythians.txt, line 649: [ὁπόσα χεριαρᾶν], [uuu uuu-]
+
+Length 6 in file pythians.txt, line 629: [τὸ μέν, ὅτι βασιλεὺς], [u u uu uu-]
+
+Length 6 in file pythians.txt, line 618: [πολύφιλον ἑπέταν.], [uuuu uu-]
+
+Length 6 in file pythians.txt, line 184: [ἀδύνατα δ᾽ἔπος ἐκβαλεῖν κραταιὸν ἐν ἀγαθοῖς], [uuuu uu -u- u-u u uu-]
+
+Length 6 in file pythians.txt, line 176: [καλός. ὁ δὲ Ῥαδάμανθυς εὖ πέπραγεν, ὅτι φρενῶν], [uu u u uu-u - u-u uu u-]
+
+Length 6 in file pythians.txt, line 159: [τὺ δὲ σάφα νιν ἔχεις, ἐλευθέρᾳ φρενὶ πεπαρεῖν,], [u u uu u u- u-u- uu uu-]
+
+Length 6 in file pythians.txt, line 151: [θεὸς ἅπαν ἐπὶ ἐλπίδεσσι τέκμαρ ἀνύεται,], [uu uu uu -u-u -u uuu-]
+
+Length 6 in file pythians.txt, line 134: [ὅτι τε μεγαλοκευθέεσσιν ἔν ποτε θαλάμοις], [uu u uuu-u-u - uu uu-]
+
+Length 6 in file pythians.txt, line 126: [ἔμαθε δὲ σαφές. εὐμενέσσι γὰρ παρὰ Κρονίδαις], [uuu u uu -u-u - uu uu-]
+
+Length 6 in file pythians.txt, line 109: [ἐπὶ γὰρ ἰοχέαιρα παρθένος χερὶ διδύμᾳ], [uu u uuu-u -u- uu uu-]
+
+Length 6 in file pythians.txt, line 101: [μεγαλοπόλιες ὦ Συράκοσαι, βαθυπολέμου], [uuuuuu - u-u- uuuu-]
+
+Length 6 in file persians.txt, line 969: [ἔταφον ἔταφον, οὐκ ἀμφὶ σκηναῖς], [uuu uuu - -- --]
+
+Length 6 in file persians.txt, line 957: [Πέρσαις ἀγαυοῖς κακὰ πρόκακα λέγεις.], [-- u-- uu uuu u-]
+
+Length 6 in file persians.txt, line 956: [ἔλιπες ἔλιπες; ὢ ὢ δαίων.], [uuu uuu - - -u-]
+
+Length 6 in file persians.txt, line 945: [τάδε σʼ ἐπανερόμαν.], [uu uuuu-]
+
+Length 6 in file persians.txt, line 920: [ἁλίτυπά τε βάρη,], [uuuu u u-]
+
+Length 6 in file persians.txt, line 917: [μετάτροπος ἐπʼ ἐμοί.], [uuuu u u-]
+
+Length 6 in file persians.txt, line 911: [κακομέλετον ἰὰν], [uuuuu u-]
+
+Length 6 in file persians.txt, line 910: [κακοφάτιδα βοάν,], [uuuuu u-]
+
+Length 6 in file persians.txt, line 908: [κακὸν ἄρʼ ἐγενόμαν.], [uu u uuu-]
+
+Length 6 in file persians.txt, line 905: [ἐπὶ γόνυ κέκλιται.], [uu uu uu-]
+
+Length 6 in file persians.txt, line 661: [βάσκε πάτερ ἄκακε Δαριάν, οἶ.], [-u uu uuu -u- -]
+
+Length 6 in file persians.txt, line 655: [βάσκε πάτερ ἄκακε Δαριάν, οἶ.], [-u uu uuu -u- -]
+
+Length 6 in file persians.txt, line 279: [ὦ πλεῖστον ἔχθος ὄνομα Σαλαμῖνος κλύειν.], [- -u -u uuu uu-- u-]
+
+Length 6 in file nemeans.txt, line 504: [εἰ γάρ σφισιν ἐμπεδοσθενέα βίοτον ἁρμόσαις], [- - uu -u-uuu uuu -u-]
+
+Length 6 in file nemeans.txt, line 496: [ἐν τίν κ᾽ἐθέλοι, Γίγαντας ὃς ἐδάμασας, εὐτυχῶς], [- - uu- u-u u uuuu -u-]
+
+Length 6 in file nemeans.txt, line 483: [εἴρειν στεφάνους ἐλαφρόν· ἀναβάλεο· Μοῖσά τοι], [-- uu- u-u uuuuu -u -]
+
+Length 6 in file nemeans.txt, line 475: [εἰ πὰρ μέλος ἔρχομαι ψάγιον ὄαρον ἐννέπων.], [- - uu -u- uuu uuu -u-]
+
+Length 6 in file nemeans.txt, line 462: [εὐδαιμονίαν ἅπασαν ἀνελόμενον· οὐκ ἔχω], [--uu- u-u uuuuu - u-]
+
+Length 6 in file nemeans.txt, line 454: [εὐώνυμον ἐς δίκαν τρία ἔπεα διαρκέσει·], [--uu - u- uu uuu u-u-]
+
+Length 6 in file nemeans.txt, line 441: [κεῖται, Πριάμου πόλιν Νεοπτόλεμος ἐπεὶ πράθεν,], [-- uu- u- uuuuu u- u-]
+
+Length 6 in file nemeans.txt, line 433: [λευρὸν ξίφος· ὃν κράτιστον Ἀχιλέος ἄτερ μάχᾳ], [-- uu - u-u uuuu u- u-]
+
+Length 6 in file nemeans.txt, line 420: [ἔργοις δὲ καλοῖς ἔσοπτρον ἴσαμεν ἑνὶ σὺν τρόπῳ,], [-- u u- u-u uuu uu - u-]
+
+Length 6 in file nemeans.txt, line 412: [εἴργει δὲ πότμῳ ζυγένθʼ ἕτερον ἕτερα. σὺν δὲ τὶν], [-- u u- u- uuu uuu - u -]
+
+Length 6 in file isthmians.txt, line 185: [ἔρνεϊ Τελεσιάδα. τόλμᾳ γὰρ εἰκὼς], [-uu uuuu- -- u --]
+
+Length 5 in file theoc4.txt, line 39: [νῦν δὲ τῶδε μὲν ἄματος ἄλλον ἔχης κλάδον,], [- u -u u uuu -u u- u-]
+
+Length 5 in file seven.txt, line 610: [δορίπονα κάκʼ ἐκτρέποντες <ἐς> γᾶς], [uuuu u -u-u - -]
+
+Length 5 in file seven.txt, line 547: [μεγάλα μεγαληγόρων κλυούσᾳ], [uuu uu-u- u--]
+
+Length 5 in file seven.txt, line 80: [ῥεῖ πολὺς ὅδε λεὼς πρόδρομος ἱππότας·], [- uu uu u- uuu -u-]
+
+Length 5 in file pythians.txt, line 1178: [καλλίονα θανάτου στείχοι, γλυκυτάτᾳ γενεᾷ], [-uuu uu- -- uuu- uu-]
+
+Length 5 in file pythians.txt, line 1176: [ἀλλ᾽ εἴ τις ἄκρον ἑλὼν ἁσυχᾶ τε νεμόμενος αἰνὰν ὕβριν], [- - u -u u- -u- u uuuu -- u-]
+
+Length 5 in file pythians.txt, line 1171: [Ἑλλανίδα στρατιὰν ὠκύτατι. θεόθεν ἐραίμαν καλῶν,], [--u- uu- -u-u uuu u-- u-]
+
+Length 5 in file pythians.txt, line 1162: [Μοῖσα, τὸ δὲ τεόν, εἰ μισθοῖο συνέθευ παρέχειν], [-u u u uu - --u uu- uu-]
+
+Length 5 in file pythians.txt, line 1160: [ὀρθὰν κέλευθον ἰὼν τὸ πρίν· ἤ μέ τις ἄνεμος ἔξω πλόου], [-- u-u u- - u - u u uuu -- u-]
+
+Length 5 in file pythians.txt, line 1155: [Τρώων ἔλυσε δόμους ἁβρότατος. ὁ δ᾽ἄρα γέροντα ξένον], [-- u-u u- -u-u u uu u-- u-]
+
+Length 5 in file pythians.txt, line 1144: [σφαχθεῖσα τῆλε πάτρας ἔκνισεν βαρυπάλαμον ὄρσαι χόλον;], [--u -u u- -u- uuuuu -- u-]
+
+Length 5 in file pythians.txt, line 1139: [χειρῶν ὕπο κρατερᾶν ἐκ δόλου τροφὸς ἄνελε δυσπενθέος,], [-- u- uu- - u- uu uuu --u-]
+
+Length 5 in file pythians.txt, line 1130: [ὄφρα Θέμιν ἱερὰν Πυθῶνά τε καὶ ὀρθοδίκαν], [-u uu uu- --u u u -uu-]
+
+Length 5 in file pythians.txt, line 1128: [ὦ παῖδες Ἁρμονίας, ἔνθα καί νυν ἐπίνομον ἡρωΐδων], [- -u -uu- -u - u uuuu --u-]
+
+Length 5 in file pythians.txt, line 1123: [Ἰνώ τε Λευκοθέα ποντιᾶν ὁμοθάλαμε Νηρηΐδων,], [-- u -uu- -u- uuuuu --u-]
+
+Length 5 in file pythians.txt, line 903: [ἁβρότατος ἔπι μεγάλας], [-u-u uu uu-]
+
+Length 5 in file pythians.txt, line 896: [σωμάτεσσι κακὰ φρονέων,], [-u-u uu uu-]
+
+Length 5 in file pythians.txt, line 883: [ἀμφʼ ἕκαστον ὅσα νέομαι.], [- u-u uu uu-]
+
+Length 5 in file pythians.txt, line 876: [ναὸν εὐκλέα διανέμων], [-u -uu uuu-]
+
+Length 5 in file pythians.txt, line 863: [νῦν ἀρείονος ἐνέχεται], [- u-uu uuu-]
+
+Length 5 in file pythians.txt, line 856: [δευτέραν ὁδὸν Ἐπίγονοι.], [-u- uu uuu-]
+
+Length 5 in file pythians.txt, line 843: [εἰμὶ δ᾽ἄσχολος ἀναθέμεν], [-u -uu uuu-]
+
+
+Top 100 lines with the longest '-' sequences:
+Length 12 in file odyssey22.txt, line 192: [σειρὴν δὲ πλεκτὴν ἐξ αὐτοῦ πειρήναντε], [-- - -- - -- ----]
+
+Length 12 in file odyssey22.txt, line 175: [σειρὴν δὲ πλεκτὴν ἐξ αὐτοῦ πειρήναντε], [-- - -- - -- ----]
+
+Length 12 in file odyssey21.txt, line 15: [τὼ δ’ἐν Μεσσήνῃ ξυμβλήτην ἀλλήλοιϊν], [- - --- --- ----]
+
+Length 12 in file odyssey15.txt, line 334: [σίτου καὶ κρειῶν ἠδ’ οἴνου βεβρίθασιν.], [-- - -- - -- ----]
+
+Length 12 in file iliad23.txt, line 221: [ψυχὴν κικλήσκων Πατροκλῆος δειλοῖο.], [-- --- ---- ---]
+
+Length 12 in file iliad2.txt, line 544: [θώρηκας ῥήξειν δηίων ἀμφὶ στήθεσσι·], [--- -- -- -- ---]
+
+Length 12 in file HHDemeter.txt, line 269: [αἰὲν ἐν ἀλλήλοισιν συνάξουσ᾽ ἤματα πάντα.], [-u u ---- --- --- --]
+
+Length 12 in file HHApollo.txt, line 31: [νῆσός τ᾽Αἰγίνη ναυσικλειτή τ᾽Εὔβοια,], [-- --- ---- ---]
+
+Length 10 in file theogony.txt, line 887: [πλεῖστα τε ἰδυῖαν ἰδὲ θνητῶν ἀνθρώπων.], [-u u --- -- -- ---]
+
+Length 10 in file ophal.txt, line 1668: [ἦ γὰρ ἀεὶ πλωτῶν σιφλὸν γένος θεόντων.], [- u u- -- -- -- ---]
+
+Length 10 in file odyssey5.txt, line 32: [οὔτε θεῶν πομπῇ οὔτε θνητῶν ἀνθρώπων·], [-u u- -- -- -- ---]
+
+Length 10 in file iliad9.txt, line 279: [νῆα ἅλις χρυσοῦ καὶ χαλκοῦ νηήσασθαι], [-u u- -- - -- ----]
+
+Length 10 in file iliad9.txt, line 137: [νῆα ἅλις χρυσοῦ καὶ χαλκοῦ νηησάσθω], [-u u- -- - -- ----]
+
+Length 10 in file iliad23.txt, line 105: [παννυχίη γάρ μοι Πατροκλῆος δειλοῖο], [-uu- - - ---- ---]
+
+Length 10 in file iliad23.txt, line 65: [ἦλθε δ’ἐπὶ ψυχὴ Πατροκλῆος δειλοῖο], [-u u- -- ---- ---]
+
+Length 10 in file iliad17.txt, line 670: [νῦν τις ἐνηείης Πατροκλῆος δειλοῖο], [- u u--- ---- ---]
+
+Length 10 in file iliad14.txt, line 320: [οὐδ’ ὅτε Φοίνικος κούρης τηλεκλειτοῖο,], [- uu --- -- -----]
+
+Length 10 in file iliad11.txt, line 738: [Μούλιον αἰχμητήν· γαμβρὸς δ’ἦν Αὐγείαο,], [-uu --- -- - ----]
+
+Length 10 in file iliad11.txt, line 130: [Ἀτρεΐδης· τὼ δ’αὖτ’ ἐκ δίφρου γουναζέσθην·], [-uu- - - - -- ----]
+
+Length 10 in file aratus.txt, line 138: [[δεξιτερῇ πτέρυγι· Προτρυγητὴρ δ᾽αὖτε καλεῖται·]], [-uu- uu- ---- -- ---]
+
+Length 10 in file HHermes.txt, line 584: [νύκτα δι᾽ ὀρφναίην φῦλα θνητῶν ἀνθρώπων.], [-u u --- -- -- ---]
+
+Length 10 in file HHDemeter.txt, line 261: [ἴστω γὰρ θεῶν ὅρκος, ἀμείλικτον Στυγὸς ὕδωρ,], [-- - - -- ---- uu --]
+
+Length 10 in file HHApollo.txt, line 441: [ἄψορροι δὴ ἔπειτα πρὸς ἠῶ τ᾽ἠέλιόν τε], [--- u u-- - -- ---- -]
+
+Length 9 in file worksanddays.txt, line 823: [ἄλλος δ’ἀλλοίην αἰνεῖ, παῦροι δὲ ἴσασιν.], [-- --- -- -- u u--]
+
+Length 9 in file worksanddays.txt, line 639: [τύνη δ’,ὦ Πέρση, ἔργων μεμνημένος εἶναι], [-- - -- -- --uu --]
+
+Length 9 in file worksanddays.txt, line 561: [γῆ πάντων μήτηρ καρπὸν σύμμικτον ἐνείκῃ.], [- -- -- -- --u u--]
+
+Length 9 in file worksanddays.txt, line 389: [ναίουσιν· γυμνὸν σπείρειν, γυμνὸν δὲ βοωτεῖν,], [--- -- -- -- u u--]
+
+Length 9 in file worksanddays.txt, line 339: [ὄφρ’ ἄλλων ὠνῇ κλῆρον, μὴ τὸν τεὸν ἄλλος.], [- -- -- -- - - uu --]
+
+Length 9 in file tyrtaeus.txt, line 34: [δήμου δὲ πλήθει νίκην καὶ κάρτος ἕπεσθαι:], [-- - -- -- - -u u--]
+
+Length 9 in file tryph.txt, line 647: [Κασσάνδρην δ᾽ᾔσχυνεν Ὀιλῆος ταχὺς Αἴας], [--- --- --- uu --]
+
+Length 9 in file tryph.txt, line 461: [μήτ᾽ ἄλλων Τρώων μήτ᾽ αὐτοῦ Δηιφόβοιο·], [- -- -- - -- -uu--]
+
+Length 9 in file theogony.txt, line 809: [ἑξείης πάντων πηγαὶ καὶ πείρατʼ ἔασιν], [--- -- -- - -u u--]
+
+Length 9 in file theogony.txt, line 738: [ἑξείης πάντων πηγαὶ καὶ πείρατʼ ἔασιν], [--- -- -- - -u u--]
+
+Length 9 in file theogony.txt, line 477: [πέμψαν δ᾽ἐς Λύκτον, Κρήτης ἐς πίονα δῆμον,], [-- - -- -- - -uu --]
+
+Length 9 in file theogony.txt, line 6: [ἢ Ἵππου κρήνης ἢ Ὀλμειοῦ ζαθέοιο], [- -- -- - --- uu--]
+
+Length 9 in file theognis.txt, line 719: [ἀλλὰ χρὴ πάντας γνώμην ταύτην καταθέσθαι,], [-- - -- -- -- uu--]
+
+Length 9 in file theoc3.txt, line 727: [Ὣς εἰπὼν μέσσης ἐξηρώησε κελεύθου], [- -- -- ----u u--]
+
+Length 9 in file theoc3.txt, line 268: [πολλή τοι Σπάρτη, πολλὴ δ᾽ἱππήλατος ̂Ἠλις,], [-- - -- -- --uu --]
+
+Length 9 in file theoc3.txt, line 110: [ἐλπὶς τῶν ὕπνων. ζάτει τὸν σάρκινον ἰχθύν,], [-- - -- -- - -uu --]
+
+Length 9 in file theoc2.txt, line 766: [Λατὼ μὲν δοίη, Λατὼ κουροτρόφος ὔμμιν], [-- - -- -- --uu --]
+
+Length 9 in file theoc2.txt, line 765: [χαίροις ὦ νύμφα, χαίροις εὐπένθερε γαμβρέ.], [-- - -- -- --uu --]
+
+Length 9 in file theoc2.txt, line 495: [πολλοὺς δ᾽εὖ ἔρξαι παῶν, πολλοὺς δὲ καὶ ἄλλων], [-- - -- -- -- u u --]
+
+Length 9 in file theoc2.txt, line 422: [αἰπεινάν τ᾽Ἐρύκαν, χρυσῷ παίζοισ᾽ Ἀφροδίτα·], [--- uu- -- -- ----]
+
+Length 9 in file theoc2.txt, line 383: [καλλίστα παίδων· πείρᾳ θην πάντα τελεῖται.], [--- -- -- - -u u--]
+
+Length 9 in file theoc1.txt, line 894: [φαίνονται, πολλὰς μὲν ὄις, πολλὰς δὲ χιμαίρας,], [--- -- - - -- u u--]
+
+Length 9 in file theoc1.txt, line 771: [ὄχναι μὲν πὰρ ποσσί, παρὰ πλευραῖσι δὲ μᾶλα], [- - - -- -- --u u --]
+
+Length 9 in file theoc1.txt, line 489: [στασῶ δ᾽ὀκτὼ μὲν γαυλὼς τῷ Πανὶ γάλακτος,], [-- -- - -- - -u u--]
+
+Length 9 in file solon.txt, line 163: [γηράσκω δ᾽αἰεὶ πολλὰ διδασκόμενος.], [--- -- -- --u--]
+
+Length 9 in file scutum.txt, line 471: [κύκνον δ᾽αὖ Κῆυξ θάπτεν καὶ λαὸς ἀπείρων,], [-- - -- -- - -u u--]
+
+Length 9 in file prometheus.txt, line 139: [δέρχθητʼ, ἐσίδεσθʼ οἵῳ δεσμῷ, προσπορπατὸς], [-- uu- -- -- ----]
+
+Length 9 in file opcyn.txt, line 1664: [ἀλλ᾽ ἔμπης θείειν ποσσὶ κραιπνοὶ τελέθουσαι], [- -- -- -- -- uu--]
+
+Length 9 in file opcyn.txt, line 292: [ὅσσοι Κυρήνην πουλυψηφῖδα νέμονται.], [-- --- ----u u--]
+
+Length 9 in file odyssey9.txt, line 268: [δοίης δωτίνην, ἥ τε ξείνων θέμις ἐστίν.], [-- --- - - -- uu --]
+
+Length 9 in file odyssey9.txt, line 219: [ταρσοὶ μὲν τυρῶν βρῖθον, στείνοντο δὲ σηκοὶ], [-- - -- -- --u u --]
+
+Length 9 in file odyssey8.txt, line 441: [ἐν δ’αὐτὴ φᾶρος θῆκεν καλόν τε χιτῶνα,], [- -- -- -- -- u u--]
+
+Length 9 in file odyssey8.txt, line 207: [πάντων Φαιήκων, πλήν γ’αὐτοῦ Λαοδάμαντος.], [-- --- - -- -uu--]
+
+Length 9 in file odyssey8.txt, line 162: [ἀρχὸς ναυτάων οἵ τε πρηκτῆρες ἔασι,], [-- --- - - --u u--]
+
+Length 9 in file odyssey6.txt, line 202: [ὅς κεν Φαιήκων ἀνδρῶν ἐς γαῖαν ἵκηται], [- - --- -- - -u u--]
+
+Length 9 in file odyssey6.txt, line 182: [ἐσθλήν· οὐ μὲν γὰρ τοῦ γε κρεῖσσον καὶ ἄρειον,], [-- - - - - - -- u u--]
+
+Length 9 in file odyssey6.txt, line 3: [βῆ ῥ’ἐς Φαιήκων ἀνδρῶν δῆμόν τε πόλιν τε,], [- - --- -- -- u u- -]
+
+Length 9 in file odyssey4.txt, line 331: [τῶν νῦν μοι μνῆσαι, καί μοι νημερτὲς ἐνίσπες.], [- - - -- - - --u u--]
+
+Length 9 in file odyssey4.txt, line 279: [πάντων Ἀργείων φωνὴν ἴσκουσ’ ἀλόχοισιν.], [-- --- -- -- uu--]
+
+Length 9 in file odyssey3.txt, line 101: [τῶν νῦν μοι μνῆσαι, καί μοι νημερτὲς ἐνίσπες.], [- - - -- - - --u u--]
+
+Length 9 in file odyssey24.txt, line 485: [ἔκλησιν θέωμεν· τοὶ δ’ἀλλήλους φιλεόντων], [--- -- - --- uu--]
+
+Length 9 in file odyssey24.txt, line 381: [ἄνδρας μνηστῆρας· τῶ κε σφέων γούνατ’ ἔλυσα], [-- --- - - - -u u--]
+
+Length 9 in file odyssey24.txt, line 3: [καλὴν χρυσείην, τῇ τ’ἀνδρῶν ὄμματα θέλγει], [-- --- - -- -uu --]
+
+Length 9 in file odyssey23.txt, line 147: [ἀνδρῶν παιζόντων καλλιζώνων τε γυναικῶν.], [-- --- ---- u u--]
+
+Length 9 in file odyssey22.txt, line 278: [λίγδην, ἄκρον δὲ ῥινὸν δηλήσατο χαλκός.], [-- -- - -- --uu --]
+
+Length 9 in file odyssey21.txt, line 417: [γυμνός· τοὶ δ’ἄλλοι κοίλης ἔντοσθε φαρέτρης], [-- - -- -- --u u--]
+
+Length 9 in file odyssey21.txt, line 210: [οἴοισι δμώων· τῶν δ’ἄλλων οὔ τευ ἄκουσα], [--- -- - -- - u u--]
+
+Length 9 in file odyssey21.txt, line 40: [ᾑρεῖτ’, ἀλλ’ αὐτοῦ μνῆμα ξείνοιο φίλοιο], [-- - -- -- --u u--]
+
+Length 9 in file odyssey20.txt, line 337: [ἔσθων καὶ πίνων, ἡ δ’ἄλλου δῶμα κομίζῃ.], [-- - -- - -- -u u--]
+
+Length 9 in file odyssey20.txt, line 130: [εὐνῇ καὶ σίτῳ, ἦ αὔτως κεῖται ἀκηδής;], [-- - -- - -- -u u--]
+
+Length 9 in file odyssey2.txt, line 422: [ὅπλων ἅπτεσθαι· τοὶ δ’ὀτρύνοντος ἄκουσαν.], [-- --- - ---u u--]
+
+Length 9 in file odyssey19.txt, line 307: [τοῦ μὲν φθίνοντος μηνός, τοῦ δ’ἱσταμένοιο.], [- - --- -- - -uu--]
+
+Length 9 in file odyssey19.txt, line 271: [ἀγχοῦ, Θεσπρωτῶν ἀνδρῶν ἐν πίονι δήμῳ,], [-- --- -- - -uu --]
+
+Length 9 in file odyssey19.txt, line 161: [οἴκου κήδεσθαι, τῷ τε Ζεὺς ὄλβον ὀπάζει.], [-- --- - - - -u u--]
+
+Length 9 in file odyssey18.txt, line 83: [αἴ κέν σ’οὗτος νικήσῃ κρείσσων τε γένηται,], [- - -- --- -- u u--]
+
+Length 9 in file odyssey17.txt, line 526: [ἀγχοῦ, Θεσπρωτῶν ἀνδρῶν ἐν πίονι δήμῳ,], [-- --- -- - -uu --]
+
+Length 9 in file odyssey17.txt, line 223: [τόν κ’εἴ μοι δοίης σταθμῶν ῥυτῆρα γενέσθαι], [- - - -- -- --u u--]
+
+Length 9 in file odyssey17.txt, line 187: [αὐτοῦ βουλοίμην σταθμῶν ῥυτῆρα λιπέσθαι·], [-- --- -- --u u--]
+
+Length 9 in file odyssey14.txt, line 451: [νόσφιν δεσποίνης καὶ Λαέρταο γέροντος·], [-- --- - ---u u--]
+
+Length 9 in file odyssey14.txt, line 255: [νηῶν πημάνθη, ἀλλ’ ἀσκηθέες καὶ ἄνουσοι], [-- --- - --- u u--]
+
+Length 9 in file odyssey14.txt, line 162: [τοῦ μὲν φθίνοντος μηνός, τοῦ δ’ἱσταμένοιο,], [- - --- -- - -uu--]
+
+Length 9 in file odyssey14.txt, line 97: [ἀνδρῶν ἡρώων, οὔτ’ ἠπείροιο μελαίνης], [-- --- - ---u u--]
+
+Length 9 in file odyssey14.txt, line 9: [νόσφιν δεσποίνης καὶ Λαέρταο γέροντος,], [-- --- - ---u u--]
+
+Length 9 in file odyssey11.txt, line 629: [ἀνδρῶν ἡρώων, οἳ δὴ τὸ πρόσθεν ὄλοντο.], [-- --- - - - -u u--]
+
+Length 9 in file odyssey11.txt, line 309: [οὓς δὴ μηκίστους θρέψε ζείδωρος ἄρουρα], [- - --- -- --u u--]
+
+Length 9 in file odyssey11.txt, line 302: [οἳ καὶ νέρθεν γῆς τιμὴν πρὸς Ζηνὸς ἔχοντες], [- - -- - -- - -u u--]
+
+Length 9 in file odyssey1.txt, line 39: [μήτ’ αὐτὸν κτείνειν μήτε μνάασθαι ἄκοιτιν·], [- -- -- -- --u u--]
+
+Length 9 in file iliad9.txt, line 365: [ἄλλον δ’ἐνθένδε χρυσὸν καὶ χαλκὸν ἐρυθρὸν], [-- --- -- - -u u--]
+
+Length 9 in file iliad8.txt, line 433: [τῇσιν δ’Ὧραι μὲν λῦσαν καλλίτριχας ἵππους,], [-- -- - -- --uu --]
+
+Length 9 in file iliad8.txt, line 154: [ἀλλ’ οὐ πείσονται Τρῶες καὶ Δαρδανίωνες], [- - --- -- - -uu--]
+
+Length 9 in file iliad7.txt, line 474: [ἄλλοι δὲ ῥινοῖς, ἄλλοι δ’αὐτῇσι βόεσσιν,], [-- - -- -- --u u--]
+
+Length 9 in file iliad7.txt, line 473: [ἄλλοι μὲν χαλκῷ, ἄλλοι δ’αἴθωνι σιδήρῳ,], [-- - -- -- --u u--]
+
+Length 9 in file iliad7.txt, line 437: [πύργους θ’ὑψηλούς, εἶλαρ νηῶν τε καὶ αὐτῶν.], [-- --- -- -- u u --]
+
+Length 9 in file iliad7.txt, line 417: [στὰς ἐν μέσσοισιν· τοὶ δ’ὁπλίζοντο μάλ’ ὦκα,], [- - --- - ---u u --]
+
+Length 9 in file iliad7.txt, line 393: [οὔ φησιν δώσειν· ἦ μὴν Τρῶές γε κέλονται.], [- -- -- - - -- u u--]
+
+Length 9 in file iliad7.txt, line 338: [πύργους ὑψηλοὺς εἶλαρ νηῶν τε καὶ αὐτῶν.], [-- --- -- -- u u --]
+
+Length 9 in file iliad7.txt, line 155: [τὸν δὴ μήκιστον καὶ κάρτιστον κτάνον ἄνδρα·], [- - --- - --- uu --]
+

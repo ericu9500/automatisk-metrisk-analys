@@ -22,11 +22,11 @@ tokenizer = Tokenizer(char_level=True, oov_token='UNK')
 tokenizer.fit_on_texts(lines)
 vocab_size = len(tokenizer.word_index) + 1
 sequences = tokenizer.texts_to_sequences(lines)
-padded_sequences = pad_sequences(sequences, padding='post')
+padded_sequences = pad_sequences(sequences, padding='post', maxlen=90)  # Update maxlen to 90
 
 # Tokenization for patterns ('u' -> 0, '-' -> 1)
 pattern_sequences = [[0 if ch == 'u' else 1 for ch in pattern] for pattern in patterns]
-padded_patterns = pad_sequences(pattern_sequences, padding='post')
+padded_patterns = pad_sequences(pattern_sequences, padding='post', maxlen=90)  # Update maxlen to 90
 
 # Model architecture
 model = keras.Sequential([
@@ -56,4 +56,4 @@ def predict_syllable_pattern(text):
     return pred_pattern.strip('0')
 
 # Test the prediction
-print(predict_syllable_pattern("Ἥκω Διὸς παῖς τήνδε Θηβαίαν χθόνα"))
+print(predict_syllable_pattern("Ἥκω"))
